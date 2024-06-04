@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-* I make videos about software development, JavaScript, and Node.js on YouTube. If you want to learn new skills and improve your coding, check out my channel and subscribe [here](https://www.youtube.com/@letstalkdev)!
+* I make videos about software development, JavaScript, and Node.js on YouTube. If you want to learn new skills and improve your coding, check out and subscribe to my [Let's Talk Dev YouTube channel](https://www.youtube.com/@letstalkdev)!
+* You can also get in touch using the contact form on my [portfolio website](https://mihai.ltd) or on YouTube.
 * Some technologies i enjoy working with are:
   * :zap: NodeJS
   * :green_heart: VueJS
