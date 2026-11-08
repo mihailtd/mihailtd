@@ -1,50 +1,34 @@
-### Hi there 👋
+# Mihai Farcas
 
-* I make videos about software development, JavaScript, and Node.js on YouTube. If you want to learn new skills and improve your coding, check out and subscribe to my [Let's Talk Dev YouTube channel](https://www.youtube.com/@letstalkdev)!
-* You can also get in touch using the contact form on my [portfolio website](https://mihai.ltd) or on YouTube.
-* Some technologies i enjoy working with are:
-  * :zap: NodeJS
-  * :green_heart: VueJS
-  * :elephant: PostgreSQL
-  * :cloud: Kubernetes
+**Software Architect & Principal Engineer** specializing in Agentic AI orchestration, high-performance data systems, and enterprise architecture. Creator of **[GraphPG](https://mihailtd.github.io/graphpg/)** & **[RetroAgile](https://retroagile.com)**.
+
+Founder of **[Innovi Pro](https://innovi.pro)** (Architecture & AI Consultancy) and creator of the **[Let's Talk Dev](https://www.youtube.com/@letstalkdev)** YouTube channel (350k+ views).
 
 ---
 
-To check out my experience, the technologies and ammount of code written, most of which is in private repositories 😓, here is my codersrank profile:
+### 🛠️ Core Focus & Engineering Stack
 
-[<img
-src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mihailtd"
-/>](https://profile.codersrank.io/user/mihailtd)
+- **Agentic AI & Swarms**: Model Context Protocol (MCP), LangGraph, autonomous coding agent workflows, multi-agent orchestration, n8n enterprise automation.
+- **Data & Systems Engineering**: Rust, PostgreSQL internals (UUIDv7, JSON_TABLE, range types, GiST/GIN indexing), GraphQL engine architecture, DuckDB.
+- **Enterprise & Cloud**: Kubernetes, Distributed Systems, Event-Driven Architecture, Microservices, Cloudflare Workers/D1/R2, GCP, AWS.
 
-## 🔗 Links
+---
 
-Subscribe to my YouTube channel:
+### 🚀 Featured Open Source & Projects
 
-[![Subscribe on YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@letstalkdev)
+- **[GraphPG](https://mihailtd.github.io/graphpg/)**: Instant, zero-ORM GraphQL and REST engine compiled directly over PostgreSQL schemas and catalogs, written in Rust.
+- **[RetroAgile](https://retroagile.com)**: Continuous telemetry, agent churn auditing, and spec-readiness scoring for engineering teams orchestrating human + AI coding agents.
+- **[Innovi Pro](https://innovi.pro)**: Specialized architecture consulting and autonomous AI systems implementation.
+- **[Tech Radar](https://mihai.ltd/radar)**: Interactive architectural evaluations, adoption decisions, and engineering tools tracked across production workflows.
 
-Follow me on Dev.to:
+---
 
-[![follow me on Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mihailtd)
+### 🎥 Content Creation & YouTube
 
-Get in touch on LinkedIn:
+Host of **[Let's Talk Dev](https://www.youtube.com/@letstalkdev)** — sharing in-depth engineering breakdowns, software architecture practices, and modern developer tooling with over 350,000 views.
 
-[![get in touch on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-farcas-ltd/)
-
-Buy me a coffee:
-
-[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/letstalkdev)
-
-<!--
-**mihailtd/mihailtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Subscribe to Let's Talk Dev on YouTube](https://img.shields.io/badge/YouTube-Let's_Talk_Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@letstalkdev)
+[![Personal Website](https://img.shields.io/badge/Website-mihai.ltd-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mihai.ltd)
+[![Consultancy](https://img.shields.io/badge/Consultancy-innovi.pro-7C3AED?style=for-the-badge&logo=lightning&logoColor=white)](https://innovi.pro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihai_Farcas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-farcas-ltd/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-mihailtd-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mihailtd)
